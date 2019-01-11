@@ -26,3 +26,6 @@ nav, .content {
 	border: 2px solid lightgrey;
 	border-radius: 1px;
 }
+.selected {
+color:black;
+}
