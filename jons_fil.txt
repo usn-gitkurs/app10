@@ -1,0 +1,2 @@
+Dette er en ny fil.
+Skal teste å synke den.
