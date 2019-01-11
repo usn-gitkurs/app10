@@ -1,1 +1,3 @@
 En ekstra fil lagt til lokalt.
+
+Ekstra linje lagt til via editoren i GitKraken.
